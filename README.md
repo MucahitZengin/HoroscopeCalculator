@@ -1,2 +1,5 @@
-# HoroscopeCalculator
-Burç Hesaplama C# WinForm .Net7
+# Horoscope Calculator
+
+![index](/ss/1.jpg)
+
+![index](/ss/2.jpg)
